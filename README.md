@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Laravel Project with Tests
 This is a part of [Laravel Test Guideline](https://github.com/framgia/laravel-test-guideline) Project, made by Framgia Vietnam.
 
@@ -37,3 +38,6 @@ php artisan key:generate
 - For [Travis CI](https://travis-ci.org) integration, please refer [.travis.yml](./.travis.yml). Moreover, Travis CI only support Mysql 5.6 by default, that causes the migration to be [failed](https://github.com/laravel/framework/issues/17508). Therefore, the [.travis.install-mysql-5.7.sh](./.travis.install-mysql-5.7.sh) file is also included too, to replace the default 5.6 version with the newest 5.7 version.
 - For [Circle CI](https://circleci.com/), please refer [.circleci/config.yml](./.circleci/config.yml) file.
 - For [Framgia CI](https://github.com/framgia/ci-service-document), please refer [.drone.yml](./.drone.yml) and [.framgia-ci.yml](./.framgia-ci.yml) files.
+=======
+# projectDevOps
+>>>>>>> 52a8f3a61837c76984ac26892fd535f61686e406
